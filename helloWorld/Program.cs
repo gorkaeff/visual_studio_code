@@ -6,7 +6,7 @@ namespace helloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("First example and test Visual Studio Code with C# Extension and dotnet sdk!");
         }
     }
 }

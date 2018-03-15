@@ -1,0 +1,10 @@
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\uc211502\Documents\Gorka Jusue Docs\Docs\visual_studio_code\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb

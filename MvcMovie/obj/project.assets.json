@@ -13122,11 +13122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\uc211502\\Documents\\Gorka Jusue Docs\\Docs\\visual_studio_code\\MvcMovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\uc211502\\Documents\\Gorka Jusue Docs\\Docs\\visual_studio_code\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "c:\\Users\\uc211502\\Documents\\Gorka Jusue Docs\\Docs\\visual_studio_code\\MvcMovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\uc211502\\Documents\\Gorka Jusue Docs\\Docs\\visual_studio_code\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\uc211502\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\uc211502\\Documents\\Gorka Jusue Docs\\Docs\\visual_studio_code\\MvcMovie\\obj\\",
+      "outputPath": "C:\\Users\\uc211502\\Documents\\Gorka Jusue Docs\\Docs\\visual_studio_code\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

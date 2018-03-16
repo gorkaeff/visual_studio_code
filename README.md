@@ -8,3 +8,6 @@ https://docs.microsoft.com/en-us/aspnet/core/tutorials/web-api-vsc
 
 MvcMovie
 https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app-xplat/start-mvc
+
+DB Browser for SQLite
+http://sqlitebrowser.org/
